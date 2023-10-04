@@ -4,7 +4,8 @@ Ficamos felizes que você tenha chegado nesta etapa do processo seletivo para de
 Nosso desafio é a construção de uma API Rest, obrigatoriamente você deve implementar uma solução com .NET C#.
 * .NET Core
 * POO
-* SOLID
+* Testes unitarios
+* SOLID (não obrigatório, porém um diferencial)
 * Clear Code
 
 #### Crie uma API Rest que faça o gerenciamento de um pedido. Nela devem conter as operações e regras abaixo:
@@ -27,7 +28,7 @@ Nosso desafio é a construção de uma API Rest, obrigatoriamente você deve imp
 
 #### O que vamos avaliar:
 - Solução adotada, principalmente a mudança de status do pedido.
-- Cobertura de testes e a qualidade dos testes (será um diferencial)
+- Cobertura de testes e a qualidade dos testes
 - Qualidade de código
 - Conceitos de orientação a objetos 
 - Verbos e status code dos endpoints (utilize os padrões HTTP)
